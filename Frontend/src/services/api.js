@@ -1,4 +1,5 @@
-const BASE_URL = 'http://localhost:5000/api';
+// const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL ='https://taskmanager-g6k1.onrender.com'
 
 // helper
 const request = async (url, options = {}) => {
